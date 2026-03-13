@@ -27,7 +27,7 @@
   <img src="assets/img2.jpg" width="320" alt="About Me Image" style="border-radius: 12px; margin-bottom: 20px;"/><br/>
   🌱 <strong>Learning:</strong> Spring MVC · JSP · CSS · JavaScript <br/><br/>
   🛠 <strong>Stack:</strong> Frontend (HTML/CSS, JavaScript) | Backend (Java - Spring MVC) | Databases (MySQL)<br/><br/>
-  🎨 <strong>UX/UI Tools:</strong> Figma · Canva <br/><br/>
+  🎨 <strong>Link Project:</strong> https://github.com/Nirut2003/volunteer-activity-management-system <br/><br/>
   💻 <strong>Dev Tools:</strong> Eclipse · VS Code · GitHub <br/><br/>
   💡 <strong>Goal:</strong> <em>Seeking an opportunity in IT to grow technical skills, gain real-world experience, and contribute with teamwork & problem-solving.</em>
 </p>

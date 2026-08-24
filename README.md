@@ -1,6 +1,6 @@
 <!-- Profile Picture -->
 <p align="center">
-  <img src="assets/5cf5870a-146e-4976-bbf7-00df46d1e4fd.png" width="220" style="border-radius: 50%; border: 4px solid #4CAF50;" alt="Nirut"/>
+  <img src="5cf5870a-146e-4976-bbf7-00df46d1e4fd.jpg" width="220" style="border-radius: 50%; border: 4px solid #4CAF50;" alt="Nirut"/>
 </p>
 
 <!-- Typing Animation -->

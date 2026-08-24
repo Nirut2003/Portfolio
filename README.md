@@ -91,11 +91,24 @@
 
 ## 📫 Contact Me
 <p align="center">
-  <img src="assets/img1.jpg" width="200" alt="Contact Image" style="border-radius: 12px; margin-bottom: 20px;"/><br/>
-  📍 Lamphun, Thailand<br/>
-  💌 <a href="mailto:nirut.chanai.dev@gmail.com">nirut.chanai.dev@gmail.com</a><br/>
-  📞 +66 80-312-6797<br/>
-  🐦 GitHub: <a href="https://github.com/Nirut2003">github.com/Nirut2003</a>
+  <em style="color:#555;">Let's connect! Open to Junior Backend Developer or Software Developer opportunities.</em><br/><br/>
+  
+  📍 <strong>Location:</strong> Lamphun, Thailand<br/><br/>
+
+  <!-- Email Badge -->
+  <a href="mailto:nirut.chanai.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nirut.chanai.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  
+  <!-- Phone Badge -->
+  <a href="tel:+66803126797">
+    <img src="https://img.shields.io/badge/Phone-%2B66%2080--312--6797-2EA44F?style=for-the-badge&logo=phone-pe&logoColor=white" alt="Phone">
+  </a>
+
+  <!-- GitHub Badge -->
+  <a href="https://github.com/Nirut2003" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Nirut2003-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
 
 <!-- Divider Animation -->

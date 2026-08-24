@@ -44,7 +44,6 @@
 
 ##  GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nirut2003&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nirut2003&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
 </p>

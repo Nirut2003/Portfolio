@@ -1,6 +1,6 @@
 <!-- Profile Picture -->
 <p align="center">
-  <img src="assets/profile.jpg.jpg" width="220" style="border-radius: 50%; border: 4px solid #4CAF50;" alt="Nirut Chanai"/>
+  <img src="assets/Screenshot 2026-08-03 100549.png" width="220" style="border-radius: 50%; border: 4px solid #4CAF50;" alt="Nirut Chanai"/>
 </p>
 
 <!-- Typing Animation -->

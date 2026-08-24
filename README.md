@@ -1,6 +1,6 @@
 <!-- Profile Picture -->
 <p align="center">
-  <img src="Screenshot 2026-08-03 100549.png" width="220" style="border-radius: 50%; border: 4px solid #4CAF50;" alt="Nirut"/>
+  <img src="assets/Nirut.jpg" width="220" style="border-radius: 50%; border: 4px solid #4CAF50;" alt="Nirut"/>
 </p>
 
 <!-- Typing Animation -->
@@ -24,7 +24,7 @@
 
 ## 🚀 About Me
 <p align="center">
-  <img src="assets/img2.jpg" width="320" alt="About Me Image" style="border-radius: 12px; margin-bottom: 20px;"/><br/>
+  <img src="assets/Nirut.jpg" width="320" alt="About Me Image" style="border-radius: 12px; margin-bottom: 20px;"/><br/>
   🌱 <strong>Focusing on:</strong> ASP.NET Core MVC · RESTful APIs · SignalR <br/><br/>
   🛠 <strong>Stack:</strong> Backend (C#, Java, ASP.NET Core, Spring MVC) | Databases (MySQL)<br/><br/>
   💼 <strong>Experience:</strong> Software Developer Intern at Infinite Technology Corporation<br/><br/>
